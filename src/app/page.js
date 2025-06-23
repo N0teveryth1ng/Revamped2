@@ -289,7 +289,7 @@ export default function Portfolio() {
       {/* Footer - Darkened */}
       <footer className="fixed bottom-0 w-full bg-gray-900/80 backdrop-blur-sm border-t border-gray-800 py-3">
         <div className="max-w-6xl mx-auto px-4 text-center text-gray-500 text-sm">
-          Crafted with Next.js • 2025 • "Soham 'Charter' Das"
+          Made with Caffeine • 2025 • Charter
         </div>
       </footer>
     </div>
