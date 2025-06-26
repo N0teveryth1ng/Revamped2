@@ -231,10 +231,10 @@ export default function Portfolio() {
             <div className="grid md:grid-cols-2 gap-6">
               {[
                 {
-                  title: "Phantom Portfolio",
-                  desc: " ",
-                  tags: ["Next.js", "Purple Palette", "2025"],
-                  link: "#"
+                  title: "Quant-72",
+                  desc: " Hybrid Technical trading strategy",
+                  tags: ["Python", "ML", "2025"],
+                  link: "https://github.com/N0teveryth1ng/Quant72"
                 },
                 {
                   title: "Citi Lab",
