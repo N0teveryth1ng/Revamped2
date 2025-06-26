@@ -232,7 +232,7 @@ export default function Portfolio() {
               {[
                 {
                   title: "Phantom Portfolio",
-                  desc: "This dark-themed portfolio with rare colors",
+                  desc: " ",
                   tags: ["Next.js", "Purple Palette", "2025"],
                   link: "#"
                 },
