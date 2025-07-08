@@ -161,8 +161,8 @@ export default function Portfolio() {
                 {[
                   { 
                     name: 'Email', 
-                    value: 'vasudevankrishna245@gmail.com',
-                    url: 'mailto:vasudevankrishna245@gmail.com',
+                    value: 'dassoham2071@gmail.com',
+                    url: 'mailto:dassoham2071@gmail.com',
                     icon: '✉️',
                     bg: 'bg-gray-900'
                   },
@@ -219,29 +219,28 @@ export default function Portfolio() {
 
 
 
-
         {/* Projects Tab */}
         {activeTab === 'projects' && (
           <div className="animate-fadeIn">
             <h2 className="text-5xl font-bold mb-12">
               <span className="bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-violet-500">
                 Projects
-              </span>
+              </span>  
             </h2>
             <div className="grid md:grid-cols-2 gap-6">
               {[
                 {
                   title: "Quant-72",
-                  desc: " Hybrid Technical trading strategy",
+                  desc: "Hybrid Technical Trading Strategy",
                   tags: ["Python", "ML", "2025"],
                   link: "https://github.com/N0teveryth1ng/Quant72"
                 },
-                {
-                  title: "Citi Lab",
-                  desc: "Experimental finance visualization tool",
-                  tags: ["React", "D3.js", "Private"],
-                  link: "#"
-                },
+                // {
+                //   title: "Citi Lab",
+                //   desc: "Experimental finance visualization tool",
+                //   tags: ["React", "D3.js", "Private"],
+                //   link: "#"
+                // },
                 {
                   title: "ECOM-1N",
                   desc: "Ecom analysis",
@@ -249,9 +248,9 @@ export default function Portfolio() {
                   link: "https://github.com/N0teveryth1ng/ECOM-1N"
                 },
                 {
-                  title: "Dark Matter UI",
+                  title: "Style Matcher",
                   desc: "Component library for dark UIs",
-                  tags: ["TypeScript", "Storybook", "OSS"],
+                  tags: ["Python", "Scikit-Learn", "ML"],
                   link: "#"
                 }
               ].map((project, i) => (
