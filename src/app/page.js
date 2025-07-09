@@ -248,7 +248,7 @@ export default function Portfolio() {
                   link: "https://github.com/N0teveryth1ng/ECOM-1N"
                 },
                 {
-                  title: "ZoyaAI: The Styler",
+                  title: "ZoraAI: The Styler",
                   desc: "Component library for dark UIs",
                   tags: ["Python", "Scikit-Learn", "ML"],
                   link: "https://zorastyler.streamlit.app/"
